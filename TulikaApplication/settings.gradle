@@ -1,0 +1,2 @@
+rootProject.name='TulikaApplication'
+include ':app'
